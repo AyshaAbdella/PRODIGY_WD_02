@@ -20,7 +20,7 @@ Welcome to the **Stopwatch Application**, a simple and intuitive web-based stopw
 
 ## Live Demo 🧩
 
-[View Live Demo](https://ayshaabdella.github.io/PRODIGY_WD_02/)
+[View here](https://ayshaabdella.github.io/PRODIGY_WD_02/)
 
 ---
 
